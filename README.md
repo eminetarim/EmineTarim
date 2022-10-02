@@ -15,7 +15,7 @@ Connect with me:
 </br>
 
 [linkedin]: https://www.linkedin.com/in/emine-caki/
-[gmail]: eminetarim28@gmail.com
+[gmail]: mailto:eminetarim28@gmail.com
 
 </br>
 
