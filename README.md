@@ -1,4 +1,9 @@
-### Hi there 👋 I'm Emine
+<img src="keep coding.gif" width="auto">
+
+
+
+### Hi! Welcome to My Github Profile 👋 I'm Emine
+
 
 
 - 🌱 I’m currently learning JavaScript and React
@@ -7,8 +12,6 @@
 - ⚡ I love coding 💻, swimming 🏊‍♀️ and riding horse 🏇🏼 
 
 
-
-<img src="" width="auto">
 
 
 Connect with me:
