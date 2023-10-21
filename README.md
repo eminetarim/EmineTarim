@@ -6,9 +6,9 @@
 
 
 
-- 🌱 I’m currently learning JavaScript, React and React Native
+- 🌱 I’m currently learning JavaScript, React and Python
 - 👯 I’m looking to collaborate with other content creators
-- 🎯 2022 Goals: I want to know more about front-end technologies
+- 🎯 2024 Goals: I want to know more about front-end and back-end technologies
 - ⚡ I love coding 💻, swimming 🏊‍♀️ and riding horse 🏇🏼 
 
 
